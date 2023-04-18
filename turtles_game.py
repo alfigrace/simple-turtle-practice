@@ -1,6 +1,8 @@
+#import the required libraries
 import turtle
 import random
 
+#make screen object and change its color to black
 window = turtle.Screen()
 window.bgcolor('black')
 
